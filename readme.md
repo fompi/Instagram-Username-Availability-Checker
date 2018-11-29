@@ -1,4 +1,4 @@
-# Instagram Username Checker
+#  Instagram Username Availability Checker
 
 It's a thing that checks username availability.
 
